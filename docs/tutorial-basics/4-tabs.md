@@ -1,8 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
+title: Understanding Tabs
+sidebar_label: 4. Understanding Tabs
 ---
 
-# 3. Understanding Tabs
+# Understanding Tabs
 
 ## What Is a Tab?
 

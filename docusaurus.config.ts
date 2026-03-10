@@ -81,6 +81,7 @@ const config: Config = {
       logo: {
         alt: 'Tech Made Easy Logo',
         src: 'img/logo.svg',
+        href: '/docs/intro',
       },
       items: [],
     },

@@ -1,8 +1,9 @@
 ---
-sidebar_position: 6
+title: Website Cookies
+sidebar_label: 7. Website Cookies
+sidebar_position: 7
 ---
-
-# 6. Website Cookies
+# Website Cookies
 
 ## What Are Cookies?
 

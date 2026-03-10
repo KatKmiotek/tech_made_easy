@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: What Is a Browser?
+sidebar_label: 1. What Is a Browser?
 ---
 
 import ChromeImg from './chtome.png';
@@ -9,7 +11,7 @@ import FirefoxImg from './firefox.jpg';
 import OperaImg from './opera.jpg';
 import ChromiumImg from './chromium.jpg';
 
-# 1. What Is a Browser?
+# What Is a Browser?
 
 
 A **browser** is the program you use to visit websites on the internet. Devices like laptop, phone, tablet have it already installed.  

@@ -1,8 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
+title: Bookmarks and Favorites
+sidebar_label: 5. Bookmarks and Favorites
 ---
 
-# 4. Bookmarks and Favorites
+# Bookmarks and Favorites
 
 ## What Are Bookmarks?
 

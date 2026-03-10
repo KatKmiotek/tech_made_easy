@@ -1,8 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
+title: Incognito and Private Browsing
+sidebar_label: 6. Incognito and Private Browsing
 ---
 
-# 6. Incognito and Private Browsing
+# Incognito and Private Browsing
 
 ## What Is Incognito Mode?
 

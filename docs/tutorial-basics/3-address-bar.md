@@ -1,8 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
+title: The Address Bar
+sidebar_label: 3. The Address Bar
 ---
 
-# 2. The Address Bar
+# The Address Bar
 
 ## What Is the Address Bar?
 
