@@ -11,6 +11,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Tech Made Easy',
   tagline: 'Presentation notes for community talks',
+  favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -78,11 +79,6 @@ const config: Config = {
     },
     navbar: {
       title: 'Tech Made Easy',
-      logo: {
-        alt: 'Tech Made Easy Logo',
-        src: 'img/logo.svg',
-        href: '/docs/intro',
-      },
       items: [],
     },
     footer: {
