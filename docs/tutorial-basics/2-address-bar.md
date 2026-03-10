@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# The Address Bar & Searching
+# 2. The Address Bar
 
 ## What Is the Address Bar?
 
@@ -56,7 +56,7 @@ You can also type a question like:
 
 Your browser will show search results.
 
-Most browsers use a search engine automatically (often Google or Bing).
+Most browsers use a search engine automatically (often Google or Bing). We will look shortly where this is configured.
 
 ---
 
@@ -120,3 +120,12 @@ Notice how both work from the same place.
 
 The **address bar** is where you type website addresses or questions.  
 It is the main control centre of your browser.
+
+:::tip Did you know?
+1. The **website address in the address bar** can help you spot fake websites.
+
+Scammers sometimes create addresses that look similar to real ones, so it is always worth checking the spelling carefully.
+
+2. **www.bbc.co.uk** and **bbc.co.uk** both take you to the same website.
+The “www” part is mostly historical and today it usually makes no difference.
+:::
