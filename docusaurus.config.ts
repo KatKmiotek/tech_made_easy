@@ -1,4 +1,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
+import dotenv from 'dotenv';
+
+// Load environment variables from .env (if present)
+dotenv.config();
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
@@ -54,6 +58,11 @@ const config: Config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+        },
+        gtag: {
+          // Read tracking ID from environment variable `GTAG_ID` (set in .env)
+          trackingID: process.env.GTAG_ID ?? '',
+          anonymizeIP: true,
         },
         theme: {
           customCss: './src/css/custom.css',
