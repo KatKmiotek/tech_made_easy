@@ -4,44 +4,61 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Welcome to Our Digital Skills Sessions
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## About this project
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+These free monthly drop-in sessions run for around **90 minutes after the Coffee Morning** and cover practical topics such as:
 
-### What you'll need
+- Internet basics  
+- Staying safe online  
+- Email and video calling  
+- Online shopping and everyday digital tasks  
+- Using smartphones, tablets, and computers  
+- Understanding artificial intelligence in simple, useful ways  
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Each session includes clear explanations, practical examples, and time for questions.
 
-## Generate a new site
+---
 
-Generate a new Docusaurus site using the **classic template**.
+## About me
 
-The classic template will automatically be added to your project after you run the command:
+Hello, I’m **Kat Kmiotek**, and I’m running these sessions to help make technology feel more accessible and less intimidating.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+I believe digital skills should be available to everyone, and that learning works best in a welcoming space where people can ask questions freely, try things out, and get patient support. I am a career changer just 6 years ago learned that tech is not that scary. When I was living in Glasgow I was running programming workshops.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+My goal is to create sessions that are useful, practical, and enjoyable — helping people gain confidence with everyday technology in a way that feels manageable and relevant.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+## Please ask questions
 
-Run the development server:
+Questions are always encouraged.
 
-```bash
-cd my-website
-npm run start
-```
+You do not need to know anything before coming along, and you do not need to worry about getting things wrong. These sessions are for learning together, exploring new things, and building confidence step by step.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+If something is unclear or unfamiliar, please ask. Chances are someone else is wondering the same thing too.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+---
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## A welcoming space
+
+These sessions are designed to be:
+
+- Friendly and informal  
+- Practical and easy to follow  
+- Suitable for beginners  
+- Supportive and judgement-free  
+
+Come along, have a listen, ask questions, and learn something new.
+The presentation is in website format so you can access it after class as well.
+link:  
+QR Code  
+
+---
+
+## Support
+
+This project is kindly supported by **Loch Long Jetty Association**.
