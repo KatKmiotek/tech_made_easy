@@ -54,8 +54,13 @@ These sessions are designed to be:
 
 Come along, have a listen, ask questions, and learn something new.
 The presentation is in website format so you can access it after class as well.
-link:  
+
+## Link
+
+[https://tech-3vh.netlify.app](https://tech-3vh.netlify.app)
+
 QR Code  
+![QR Code](qrcode.png)
 
 ---
 
