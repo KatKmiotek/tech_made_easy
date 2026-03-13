@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: Understanding Tabs
-sidebar_label: 4. Understanding Tabs
+sidebar_label: 3. Understanding Tabs
 ---
 
 # Understanding Tabs
@@ -27,22 +27,10 @@ Tabs appear at the **top of your browser window**.
 
 ## Opening a New Tab
 
-There are two common ways to open a new tab.
-
-### Method 1 – Click the Plus Button
-
 Most browsers show a **+ button** next to the existing tabs.
 
 Clicking this will open a new empty tab.
 
-### Method 2 – Keyboard Shortcut
-
-If you use a keyboard:
-
-**Ctrl + T** (Windows)  
-**Command + T** (Mac)
-
-This opens a new tab instantly.
 
 ---
 

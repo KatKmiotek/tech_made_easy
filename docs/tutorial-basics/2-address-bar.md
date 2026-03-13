@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: The Address Bar
-sidebar_label: 3. The Address Bar
+sidebar_label: 2. The Address Bar
 ---
 
 # The Address Bar

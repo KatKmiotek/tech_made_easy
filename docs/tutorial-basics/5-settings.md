@@ -1,7 +1,7 @@
 ---
 title: Useful Browser Settings
-sidebar_label: 2. Browser Settings
-sidebar_position: 2
+sidebar_label: 5. Browser Settings
+sidebar_position: 5
 ---
 
 # Useful Browser Settings
