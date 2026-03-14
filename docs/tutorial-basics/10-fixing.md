@@ -18,8 +18,28 @@ You might see problems like:
 Before assuming something is seriously wrong, there are a few simple things you can try.
 
 ---
+## Step 1: Check Your Internet Connection
 
-## Step 1: Refresh the Page
+If a website does not load at all, the problem may be your internet connection.
+
+You might see messages such as:
+
+- "No internet connection"
+- "This site can’t be reached"
+
+Things you can try:
+
+1. Check if other websites open.
+2. Look for the **Wi-Fi icon** on your device.
+3. If possible, try reconnecting to Wi-Fi.
+
+If no websites open, the internet connection may be temporarily unavailable.
+
+:::tip Tip
+If several websites are not loading, the problem is usually the internet connection rather than the website itself.
+:::
+
+## Step 2: Refresh the Page
 
 Refreshing the page reloads the website.
 
@@ -34,7 +54,7 @@ The browser will download the page again.
 
 ---
 
-## Step 2: Close and Reopen the Page
+## Step 3: Close and Reopen the Page
 
 Sometimes reopening the website can help.
 
@@ -46,7 +66,7 @@ This gives the browser a fresh start.
 
 ---
 
-## Step 3: Clear Browser Cache
+## Step 4: Clear Browser Cache
 
 Your browser stores parts of websites on your computer to help them load faster.  
 This stored information is called the **cache**.
