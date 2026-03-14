@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-# Welcome to Our Digital Skills Sessions
+# Welcome to Tech Made Easy Sessions
 
 ---
 
