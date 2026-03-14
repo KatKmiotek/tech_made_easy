@@ -82,7 +82,7 @@ Most browsers allow you to open a private window quickly.
 
 ---
 
-## How to Recognise a Private Window
+## How to Recognize a Private Window
 
 Private windows usually look slightly different.
 

@@ -87,7 +87,7 @@ If this happens, simply close the tabs you no longer need.
 ---
 
 :::tip Did you know?
-Many people accidentally open **dozens of tabs** without realising it.
+Many people accidentally open **dozens of tabs** without realizing it.
 
 If your browser looks crowded at the top, it may be time to close a few!
 :::

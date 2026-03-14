@@ -86,7 +86,7 @@ Internet browsers borrowed the same idea for saving websites.
 
 ## Try This – Create a Bookmarks Folder
 
-Folders help keep your bookmarks organised.
+Folders help keep your bookmarks organized.
 
 1. Look for the **Bookmarks Bar** below the address bar.
 2. **Right-click** on the bookmarks bar.

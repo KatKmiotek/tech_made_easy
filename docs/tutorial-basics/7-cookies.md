@@ -78,7 +78,7 @@ They may record:
 - How long you stay
 - What links you click
 
-This information can be used to show **personalised advertisements**.
+This information can be used to show **personalized advertisements**.
 
 ---
 
@@ -116,7 +116,7 @@ Cookies themselves are **not viruses** and cannot damage your computer.
 
 They are simply small pieces of data stored by your browser.
 
-However, some cookies are used to **track browsing behaviour**, which is why websites now ask permission.
+However, some cookies are used to **track browsing behavior**, which is why websites now ask permission.
 
 ---
 

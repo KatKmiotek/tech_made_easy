@@ -38,7 +38,7 @@ For example, they may check:
 
 ---
 
-### Personalised Advertising
+### Personalized Advertising
 
 Tracking can also be used to show advertisements based on interests.
 
@@ -63,7 +63,7 @@ This can make websites easier to use.
 ---
 
 :::tip Did you know?
-Most online tracking is done automatically by computer systems analysing large amounts of data.
+Most online tracking is done automatically by computer systems analyzing large amounts of data.
 
 It does **not mean someone is personally watching what you do online**.
 :::
@@ -80,7 +80,7 @@ A cookie might store information such as:
 - What pages you viewed
 - A unique ID used by the website
 
-This allows websites to recognise returning visitors.
+This allows websites to recognize returning visitors.
 
 ---
 
@@ -105,6 +105,9 @@ Yes. There are several ways to reduce online tracking:
 
 Later sessions will explore these options in more detail.
 
+:::tip Did you know?
+You can reduce tracking by blocking third-party cookies in your browser settings (Menu → Settings → Privacy → Block third-party cookies).
+:::
 ---
 
 ## Common Confusion
