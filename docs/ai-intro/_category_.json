@@ -1,0 +1,8 @@
+{
+  "label": "AI Intro",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "AI Basics"
+  }
+}
