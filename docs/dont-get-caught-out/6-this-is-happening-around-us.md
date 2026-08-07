@@ -1,0 +1,54 @@
+---
+sidebar_position: 7
+title: This Is Happening Around Us
+sidebar_label: The Numbers
+---
+
+# This Is Happening Around Us
+
+Scams are common.
+
+
+## Almost One in Seven
+
+A Which? survey of 8,359 UK adults in August 2025 found:
+
+> **14% said they had personally experienced a scam in the previous 12 months.**
+
+When people who had supported a close friend or family member were included, the figure was **29%**.
+
+## Half of Mobile Users
+
+Ofcom reported in October 2025:
+
+> **50% of UK mobile users said they had received a suspicious message between November 2024 and February 2025.**
+
+Around **100 million suspicious messages** were reported to mobile operators through **7726** in the year to April 2025.
+
+# Big Companies Get Scammed Too
+
+Scams do not only affect individuals.
+
+Even large organizations with experienced staff and dedicated security teams have been caught out.
+
+## Arup — £20 million
+
+In 2024, an employee at engineering company **Arup** was tricked into transferring around **£20 million** after joining a video call with AI-generated deepfakes of senior colleagues.
+
+## Google & Facebook — over $100 million
+
+Between 2013 and 2015, **Google and Facebook** were tricked by fake invoices and emails impersonating a genuine supplier.
+
+More than **$100 million** was transferred.
+
+## MGM Resorts — major disruption
+
+In 2023, **MGM Resorts** suffered a major cyber-attack after criminals used social engineering to gain access.
+
+The incident caused widespread disruption and cost the company around **$100 million**.
+
+---
+
+> **The lesson: scams are designed to fool people — not just inexperienced people.**
+
+# PAUSE. CHECK. VERIFY.
