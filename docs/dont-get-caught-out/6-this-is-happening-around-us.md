@@ -17,6 +17,19 @@ A Which? survey of 8,359 UK adults in August 2025 found:
 
 When people who had supported a close friend or family member were included, the figure was **29%**.
 
+# We Don't See the Whole Picture
+
+In Scotland, around **1 in 10 adults experienced fraud in 2024/25**.
+
+But only **5% of fraud incidents were reported to the police**.
+
+Most were reported elsewhere — often to banks — and some may never be reported at all.
+
+People may feel embarrassed, think the loss is too small, or believe nothing can be done.
+
+> **Being scammed is nothing to be ashamed of.  
+> Talking about it helps protect other people too.**
+
 ## Half of Mobile Users
 
 Ofcom reported in October 2025:
@@ -47,8 +60,3 @@ In 2023, **MGM Resorts** suffered a major cyber-attack after criminals used soci
 
 The incident caused widespread disruption and cost the company around **$100 million**.
 
----
-
-> **The lesson: scams are designed to fool people — not just inexperienced people.**
-
-# PAUSE. CHECK. VERIFY.
