@@ -31,11 +31,6 @@ Updates can also:
 - Add new features
 - Improve security
 
-### Think of it like fixing a broken lock
-
-If somebody discovers that a particular type of lock can easily be opened, the manufacturer needs to fix it.
-
-A security update does something similar for your device.
 
 ---
 
@@ -56,7 +51,7 @@ Most modern devices can install important updates automatically.
 
 ## Should I turn automatic updates on?
 
-### Yes, for most people this is the easiest and safest option.
+Yes, for most people this is the easiest and safest option.
 
 Automatic updates mean you don't have to remember to check for every new security fix yourself.
 
@@ -72,7 +67,7 @@ If possible, don't keep postponing this for weeks or months.
 
 This is particularly important if you have an older computer.
 
-### Regular support for Windows 10 ended on 14 October 2025.
+**Regular support for Windows 10 ended on 14 October 2025.**
 
 That doesn't mean a Windows 10 computer suddenly stopped working.
 
@@ -105,22 +100,15 @@ On Windows 11:
 
 You should see whether your computer is up to date or whether updates are waiting to be installed.
 
-### Not sure which Windows you have?
+Not sure which Windows you have?
 
 Press:
 
-**Windows key + R**
+**Right-click Start and choose Windows Settings SettingsApp , select System and pick About.**
 
-Type:
-
-`winver`
-
-and press **Enter**.
-
-You'll see which version of Windows your computer is running.
 
 ---
-### How do I check for updates on a Mac?
+## How do I check for updates on a Mac?
 
 Click:
 
@@ -134,11 +122,11 @@ You can also check that automatic updates are enabled.
 
 Phones need security updates too.
 
-### iPhone / iPad
+1. iPhone / iPad
 
 **Settings → General → Software Update**
 
-### Android
+2. Android
 
 The exact location varies between manufacturers, but usually look under:
 
@@ -150,7 +138,7 @@ or search Settings for **"update"**.
 
 ## One important rule
 
-### Don't install an "update" from a random pop-up, email or text message.
+Don't install an "update" from a random pop-up, email or text message.
 
 If you receive a message saying:
 

@@ -28,7 +28,7 @@ Most modern websites and apps use **encrypted connections**.
 
 This means that someone else using the same Wi-Fi cannot simply see everything you are doing.
 
-### But there are still things to be careful about.
+**But there are still things to be careful about.**
 
 ---
 
@@ -69,7 +69,7 @@ But be suspicious if free Wi-Fi unexpectedly asks for:
 - Your Apple or Google password
 - Payment card details when the Wi-Fi is supposed to be free
 
-### Stop if the information being requested doesn't make sense.
+**Stop if the information being requested doesn't make sense.**
 
 ---
 
@@ -101,8 +101,7 @@ Using your bank's **official app** on a modern, updated phone is much safer than
 
 But if you're uncomfortable using an unfamiliar public network, there is an easy alternative:
 
-### Use your mobile data.
-
+**Use your mobile data.**
 Turn Wi-Fi off temporarily and use **4G or 5G** instead.
 
 For particularly sensitive activities, this is a simple option when mobile signal is available.
@@ -113,7 +112,7 @@ For particularly sensitive activities, this is a simple option when mobile signa
 
 Most smartphones can create a:
 
-### Personal Hotspot
+**Personal Hotspot**
 
 This lets your laptop or tablet connect to the internet using your phone's mobile data.
 
@@ -128,7 +127,7 @@ Remember that it uses your phone's **mobile data allowance**.
 
 ---
 
-# What about Bluetooth?
+## What about Bluetooth?
 
 Bluetooth lets nearby devices communicate with each other.
 
@@ -144,7 +143,7 @@ Bluetooth itself isn't something you need to be frightened of.
 
 But:
 
-### Don't accept unexpected connection or pairing requests.
+**Don't accept unexpected connection or pairing requests.**
 
 If your phone suddenly asks:
 
@@ -172,19 +171,19 @@ rather than leaving your device discoverable to everyone all the time.
 
 ---
 
-# A few simple rules
+## A few simple rules
 
 When using public Wi-Fi:
 
-### Check you're connecting to the correct network.
+- **Check you're connecting to the correct network**.
 
-### Don't enter sensitive information into unexpected Wi-Fi login pages.
+- **Don't enter sensitive information into unexpected Wi-Fi login pages.**
 
-### Keep your device and browser updated.
+- **Keep your device and browser updated.**
 
-### Use mobile data if you're uncomfortable with the network.
+- **Use mobile data if you're uncomfortable with the network.**
 
-### Don't accept unexpected Bluetooth or file-sharing requests.
+- **Don't accept unexpected Bluetooth or file-sharing requests.**
 
 And remember:
 

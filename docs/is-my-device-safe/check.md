@@ -14,15 +14,15 @@ Don't worry if you're not sure where to find something — **ask and we'll look 
 
 Check whether your device has any updates waiting.
 
-### Windows
+**Windows**
 
-**Start → Settings → Windows Update**
+Start → Settings → Windows Update
 
-### iPhone / iPad
+**iPhone / iPad**
 
-**Settings → General → Software Update**
+Settings → General → Software Update
 
-### Android
+**Android**
 
 Search your **Settings** for:
 
@@ -35,7 +35,7 @@ Search your **Settings** for:
 
 ## 2. Is antivirus protection working?
 
-### Windows
+**Windows**
 
 Search for:
 
@@ -99,11 +99,11 @@ Ask yourself:
 
 Check whether your device-finding service is enabled.
 
-### Apple
+**Apple**
 
 Look for **Find My**
 
-### Android
+**Android**
 
 Look for **Find Hub**
 
@@ -132,15 +132,15 @@ You don't need every security product or complicated setting.
 
 A well-protected device should be:
 
-### Up to date
+- Up to date
 
-### Protected
+- Protected
 
-### Locked
+- Locked
 
-### Backed up
+- Backed up
 
-### Used with a little bit of caution
+- Used with a little bit of caution
 
 ---
 
@@ -153,11 +153,3 @@ If something unexpected appears:
 
 And if you're not sure, it's OK to ask someone for help.
 :::
-
----
-
-# Questions?
-
-There are no silly questions.
-
-If you've brought a phone, tablet or laptop and there's something you've been wondering about, **now is the time to ask!**

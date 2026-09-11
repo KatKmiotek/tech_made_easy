@@ -31,7 +31,7 @@ You can usually protect them with:
 - Fingerprint recognition
 - Face recognition
 
-### Don't make your PIN too easy to guess
+**Don't make your PIN too easy to guess**
 
 Avoid things like:
 
@@ -75,13 +75,13 @@ Look in settings for:
 Modern phones have tools that can help you find them.
 
 
-### Apple — iPhone, iPad and Mac
+Apple — iPhone, iPad and Mac:
 
 **Find My**
 
 Depending on your device and settings, Find My can help you locate a missing Apple device, play a sound, mark it as lost or remotely erase it.
 
-### Android
+Android:
 
 **Find Hub**
 
@@ -193,17 +193,17 @@ For especially important things, having **more than one copy** is sensible.
 
 To protect the **device**:
 
-### Lock it with a PIN, password, fingerprint or face recognition.
+- Lock it with a PIN, password, fingerprint or face recognition.
 
-### Let it lock automatically.
+- Let it lock automatically.
 
-### Enable the device-finding feature.
+- Enable the device-finding feature.
 
 To protect your **stuff**:
 
-### Keep another copy of important files and photos.
+- Keep another copy of important files and photos.
 
-### Check that your backups are actually working.
+- Check that your backups are actually working.
 
 ---
 
