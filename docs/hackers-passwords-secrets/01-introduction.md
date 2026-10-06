@@ -1,4 +1,3 @@
-```md
 ---
 title: Hackers, Passwords & Secrets
 sidebar_position: 1
@@ -46,4 +45,3 @@ Amazon?
 Your bank?
 
 Something else?
-```
