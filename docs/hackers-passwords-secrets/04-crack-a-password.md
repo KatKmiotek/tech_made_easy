@@ -45,6 +45,8 @@ There may be more than one thing to think about:
 
 ## Let's look at them
 
+Let's use [security.org](https://www.security.org/how-secure-is-my-password/) website to check their strength.  
+
 ### `Password123!`
 
 Very weak.
