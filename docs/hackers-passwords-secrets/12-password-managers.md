@@ -83,7 +83,3 @@ You do not need to remember it.
 The password manager remembers it for you.
 
 ---
-
-## "But aren't all my passwords in one place?"
-
-This is a very
